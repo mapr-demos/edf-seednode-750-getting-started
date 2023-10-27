@@ -11,7 +11,7 @@ Use the following steps to bring up the container image and launch the Create Fa
 1.Sign in to the seed node host as root or a user that can run sudo commands without being prompted for a password.
 
 2.Download the datafabric_container_setup.sh script from GitHub. For example, download the script in its raw form by using the following wget command:
-    wget https://raw.githubusercontent.com/mapr-demos/mapr-db-750-getting-started/main/datafabric_container_setup.sh
+    wget https://raw.githubusercontent.com/mapr-demos/edf-seednode-750-getting-started/main/datafabric_container_setup.sh
 
 3.Modify the script so it is executable:
     chmod +x datafabric_container_setup.sh
