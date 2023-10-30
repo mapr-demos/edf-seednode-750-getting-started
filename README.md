@@ -24,7 +24,7 @@ Use the following steps to bring up the container image and launch the Create Fa
      
      ./datafabric_container_setup.sh
 
-6.The script brings up the latest data fabric version in containerised form  and details of user interface using which fabrics can be deployed will be printed on console
+6.The script brings up the latest Data Fabric version in containerized form. Console messages provide a link to a simple user interface that you can use to deploy the first fabric.
 
 ## Documentation Link
 For user documentation, see https://docs.ezmeral.hpe.com/datafabric/home/installation/installation_main.html
