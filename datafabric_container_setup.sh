@@ -368,6 +368,7 @@ else
           echo 
           echo "services didnt come up in stipulated 10 mins time"
           echo "please login to the container using ssh root@localhost -p 2222 with mapr as password and check further"
+          echo "For documentation on steps to debug, see https://docs.ezmeral.hpe.com/datafabric/home/installation/troubleshooting_seed_node_installation.html"
           echo "once all services are up fabric UI is available at https://"${MAPR_EXTERNAL}":8443/app/dfui  and fabrics can be deployed from that page"
           echo	
        fi
